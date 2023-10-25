@@ -11,3 +11,11 @@
 	font-family: 'Digital Clock';
 	box-sizing: border-box;
 }
+
+.hero {
+	width: 100%;
+	min-height: 100vh;
+	background: linear-gradient(45deg, #08001f, #30197d);
+	color: #fff;
+	position: relative;
+}
